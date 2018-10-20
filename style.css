@@ -1,0 +1,26 @@
+body{
+background: #9F9;
+background-image: url("imgl.jpg");
+}
+
+*{
+font-family: cursive;
+}
+
+h1, h2{
+font-size: 2.2em;
+}
+
+h3, h4{
+font-size: 1.6em;
+}
+
+p, li{
+font-size: 1.3em;
+}
+
+p2{
+font-size: 1.1em;
+}
+
+}
